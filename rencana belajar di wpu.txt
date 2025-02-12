@@ -1,3 +1,5 @@
 Rencana belajar
-Belajar membuat backend website minimal 2 kali seminggu
-Membuat catatan perintah perintah dengan menggunakan command pada file
+- Belajar membuat backend website minimal 2 kali seminggu
+- Membuat catatan perintah perintah dengan menggunakan command pada file
+- Belajar memodifikasi dengan mencontoh backend website lain
+- Membuat portofolio
